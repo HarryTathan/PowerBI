@@ -24,3 +24,6 @@ Understanding Data Analysis with Power BI using illustrative visualizations alon
 
 <img width="1202" height="692" alt="Power BI 2" src="https://github.com/user-attachments/assets/4fd74a2b-a7c2-4f56-984f-cdc3f3445fa2" />
 
+# Relationship Diagrams:
+<img width="1130" height="638" alt="image" src="https://github.com/user-attachments/assets/ce6e0ef6-a856-4a26-a790-093e84e72ac7" />
+
