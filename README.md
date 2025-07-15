@@ -7,4 +7,5 @@ Understanding Data Analysis with Power BI using illustrative visualizations alon
 4. EDA and Feature Engineering using Python could also be helpful in understanding your data well.
 5. Ensure you have a clean dataset ready before you start analysing data.
 6. Study the usage of different types of chart and select the best chart types based on what you need to represent.
-7. Familiarity with DAX would help you create new measures and do calculations on your data for detailed analysis.
+7. Join the existing tables to create new realtionships (active or inactive) as per need and effectively use the primary and foriegn keys.
+8. Familiarity with DAX would help you create new measures or tables as per the need and do calculations on your data for detailed analysis.
